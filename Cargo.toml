@@ -1,0 +1,11 @@
+[package]
+name = "wasmedge-bardecoder"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+bardecoder = "0.3.0"
+image = "0.23"
+httpcodec = "0.2.3"
+bytecodec = "0.4.15"
+wasmedge_wasi_socket = "0.1.0"
