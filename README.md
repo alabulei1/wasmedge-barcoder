@@ -1,6 +1,6 @@
 # wasmedge-barcoder
 
-This demo runs an echo server on localhost.
+This demo runs an echo server on localhost, it will detech barcode in HTTP request.
 
 ## Build
 
